@@ -25,7 +25,7 @@ The system follows a **client-server architecture
 The database schema is designed to store information about users, flights, and reservations.  
 
 **📌 Database Schema Diagram:**  
-![Database Schema](path/to/db_diagram.png)  
+![Database Schema](https://github.com/dptoala/WebTest2025/blob/main/database/db_diagram.png)
 
 
 ---
