@@ -9,7 +9,7 @@ The system follows a **client-server architecture
 
 
 **📌 Architecture Diagram:**  
-![Architecture Diagram](path/to/architecture.png)  
+![Architecture Diagram](https://github.com/dptoala/WebTest2025/blob/main/database/architecture.png)  
 
 ---
 
